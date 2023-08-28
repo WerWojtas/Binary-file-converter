@@ -96,5 +96,5 @@ def decoding(root):
 
         
         
-print()
-print(decoding(root))
+
+# print(decoding(root)) You can decode your file if you have already run c++ code.
