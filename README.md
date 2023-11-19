@@ -1,5 +1,6 @@
 # Binary-file-converter</br>
-This text file converter utilizes the Huffman algorithm to convert files into binary sequences. Utilizing a binary format can significantly reduce the storage space required, especially for lengthy text files.</br>
+This text file converter utilizes the Huffman algorithm to convert files into binary sequences.</br></br>
+Utilizing a binary format can significantly reduce the storage space required, especially for lengthy text files.</br>
 Files description:
 <ul>
     <li>'text_file - this is the file you wish to convert into binary format.</li>
