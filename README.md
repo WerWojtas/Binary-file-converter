@@ -1,7 +1,12 @@
 # Binary-file-converter</br>
-This text file converter is using Huffman algorithm for converting files to binary chains</br>
-text_file - this is your text file which you want to convert</br>
-prefixes - this is the file that contains prefixes</br>
-bin_file - this is your binary file
+This text file converter utilizes the Huffman algorithm to convert files into binary sequences. Utilizing a binary format can significantly reduce the storage space required, especially for lengthy text files.</br>
+Files description:
+<ul>
+    <li>'text_file - this is the file you wish to convert into binary format.</li>
+    <li>prefixes - this is the file that contains prefixes. You don't have to download this file, converter will create one for
+    your text.</li>
+    <li>bin_file - this is your binary file. This file will be created out of prefixes and your text in c++ function</li>
+</ul>
+
 
 
