@@ -15,7 +15,7 @@ class Tree:
 
 def szyfr():
     TAB=[]
-    with open("kod_huffmana.txt", "r") as file:
+    with open("text_file.txt", "r") as file:
         text = file.read()
     symbol_counts = Counter(text)
     unique_symbols = set(text)
